@@ -1,0 +1,14 @@
+body {
+    margin:0;
+    padding:0;
+    background: #000;
+    color:white;
+    font-family: monospace;
+}
+@font-face {
+    font-family: 'sitelen';
+    src: url('fonts/sitelen.woff2') format("woff2");
+}
+.font-pona {
+    font-family: 'sitelen', sans-serif;
+}
